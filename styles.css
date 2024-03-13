@@ -13,6 +13,10 @@ header{
     width: 100%;
     top: 0;
 }
+.greeting{
+    background-color: red;
+    height: 20px;
+}
 header i,header nav{
     color: white;
 }
